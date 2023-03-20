@@ -32,7 +32,7 @@ Ever wonder what it would be like to choose a movie depending on what type of mo
   - API’s used for this project: iMDB api
 * Materialize CSS 
 * GoogleFonts 
-* Git / GitHub
+* Git/GitHub
 
 
 ## Graphic Software Used:

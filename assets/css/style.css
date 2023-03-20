@@ -554,6 +554,16 @@ label {
 
 select {
   height: 67px;
+  background: rgba(255, 255, 255, .06);
+  color: #ffffff;
+}
+
+select {
+  font-size: 20px;
+}
+
+option {
+  color: white;
 }
 
 .emoji-dropdown-menu {
@@ -579,6 +589,7 @@ select {
   text-align: center;
   justify-content: center;
   padding: 15px;
+  margin-bottom: 50px;
   }
 
 #previous-btn {

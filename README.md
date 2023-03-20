@@ -10,6 +10,13 @@ Ever wonder what it would be like to choose a movie depending on what type of mo
 ## https://dronetdevdesign.github.io/Mood-Flix/
 
 <br>
+
+## **Table of contents:**
+- [Usage](#usage)
+- [Contributions](#contributions)
+- [Questions](#questions)
+
+<br>
 <div align="left">
     <img src="./assets/images/mood-flix-screenshot.jpg" width="800px" /> 
 </div>
@@ -39,5 +46,23 @@ Ever wonder what it would be like to choose a movie depending on what type of mo
 * Adobe Photoshop
 * Adobe Illustrator
 
-## Contribution:
-Bethany Duchene-Jennings, Mykaela Saenz and Ron Dronet
+<br>
+
+## Usage:
+
+### The respository can be cloned and placed in a folder remotely.
+<br>
+
+## Contributions:
+This app created by: Bethany Duchene-Jennings, Mykaela Saenz and Ron Dronet.<br>
+Please contact us regarding contributing to this repository. All additions must be approved.
+
+<br>
+## Questions?
+
+### If you have any questions here's how to contact me:
+
+- Username: DronetDevDesign
+- Repository: https://github.com/DronetDevDesign/mercedes-binge-app
+- Email: ron@DronetDevDesign.com
+

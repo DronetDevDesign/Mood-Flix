@@ -22,7 +22,7 @@ Ever wonder what it would be like to choose a movie depending on what type of mo
   - 768px (Laptop - tablets)
   - 576px (Small devices)
   - 430px (large cell phones)
-  - 490px (small cell phones)
+  - 390px (small cell phones)
 
 ## This Website Created Using:
 * HTML 

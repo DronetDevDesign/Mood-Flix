@@ -58,10 +58,9 @@ This app created by: Bethany Duchene-Jennings, Mykaela Saenz and Ron Dronet.<br>
 Please contact us regarding contributing to this repository. All additions must be approved.
 
 <br>
+
 ## Questions?
-
 ### If you have any questions here's how to contact me:
-
 - Username: DronetDevDesign
 - Repository: https://github.com/DronetDevDesign/mercedes-binge-app
 - Email: ron@DronetDevDesign.com

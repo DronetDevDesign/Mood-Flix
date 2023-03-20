@@ -278,6 +278,11 @@ button:focus {
   transition: .3s all;
 }
 
+.content {
+  margin-top: 20px;
+  padding: 0px 15px;
+}
+
 .title {
   position: relative;
   font-family: var(--title);
